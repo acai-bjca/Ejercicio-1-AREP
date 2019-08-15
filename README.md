@@ -1,4 +1,4 @@
-# Cálculo de la media y desviación estándar usando Linked List 
+## Cálculo de la media y desviación estándar usando Linked List 
 
 En este repositorio, se implementó una linkedList en la que se guardan datos obtenidos de archivos externos.
 
@@ -17,7 +17,7 @@ ___
 ### Uso del proyecto como librería
 Si desea usar éste repositorio como librería en su proyecto, realice los siguientes pasos:
 
-• Descargue o clone él repositorio Ejercicio-1-AREP: https://github.com/acai-bjca/Ejercicio-1-AREP.git
+• Descargue o clone él repositorio Ejercicio-1-AREP: <https://github.com/acai-bjca/Ejercicio-1-AREP.git>
 • Agregue la siguiente dependencia al pom de su proyecto:
  <dependency>
     <groupId>edu.eci</groupId>
@@ -66,7 +66,7 @@ Si lo desea, en la clase 'Ejercicio' (método principal), puede modificar el nom
 ___
 ### Construido con
 
-* Java
+* Java  
 * [Maven] (https://maven.apache.org/) - Gestión de dependencias
 
 ___
