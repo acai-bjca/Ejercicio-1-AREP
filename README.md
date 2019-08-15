@@ -1,4 +1,4 @@
-# Cálculo de la media y desviación estándar usando Linked List
+# Cálculo de la media y desviación estándar usando Linked List 
 
 En este repositorio, se implementó una linkedList en la que se guardan datos obtenidos de archivos externos.
 
@@ -9,12 +9,12 @@ En este repositorio, se implementó una linkedList en la que se guardan datos ob
 La linkedList está conformada por nodos, de los cuales el primero es la cabeza (head). Cada nodo tiene un dato o valor, y un nodo al que vincula o hace enlace. Se puede determinar el fin de la linkedList, encontrando el nodo que tiene nulo al nodo que enlaza.
 
 ___
-### Insignias
+### Insignias :white_check_mark:
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/31b363d5a6fe4c9b8eb2d1cd22bc9c37)](https://www.codacy.com/app/acai-bjca/Ejercicio-1-AREP?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acai-bjca/Ejercicio-1-AREP&amp;utm_campaign=Badge_Grade)
 
 ___
-### Instalación
+### Instalación :computer:
 Si desea usar éste repositorio como librería en su proyecto, realice los siguientes pasos:
 
 • Descargue o clone él repositorio Ejercicio-1-AREP: https://github.com/acai-bjca/Ejercicio-1-AREP.git
@@ -28,7 +28,7 @@ Si desea usar éste repositorio como librería en su proyecto, realice los sigui
 import edu.escuelaing.arep.*;
 
 ___
-### Ejecutando las pruebas
+### Ejecutando las pruebas :blue_book:
 
 Para ejecutar las pruebas puede usar el comando:
 >mvn package
@@ -64,20 +64,20 @@ Las pruebas las puede comprobar con el comando:
 Si lo desea, en la clase 'Ejercicio' (método principal), puede modificar el nombre del archivo y ejecutar el programa.
 
 ___
-### Construido con
+### Construido con :wrench:
 
 * Java
 * [Maven] (https://maven.apache.org/) - Gestión de dependencias
 
 ___
-###Autor
+###Autor :black_nib:
 
-* ** Amalia Inés Alfonso Campuzano ** 
+** Amalia Inés Alfonso Campuzano ** 
 
 Estudiante de la Escuela Colombiana de Ingeniería Julio Garavito
 
 Ingeniería de Sistemas
 ___
-### Licencia
+### Licencia :page_facing_up:
 
 Este proyecto está licenciado bajo la Licencia GNU - vea el archivo [LICENSE.md] (LICENSE.md) para más detalles.
