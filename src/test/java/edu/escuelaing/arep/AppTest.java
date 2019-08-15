@@ -1,7 +1,6 @@
 package edu.escuelaing.arep;
 
 import static edu.escuelaing.arep.Ejercicio.calculateMean;
-import static edu.escuelaing.arep.Ejercicio.calculateStandardDeviation;
 import java.io.IOException;
 import junit.framework.Test;
 import junit.framework.TestCase;

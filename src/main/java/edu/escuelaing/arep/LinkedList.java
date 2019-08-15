@@ -10,11 +10,8 @@ package edu.escuelaing.arep;
  */
 public class LinkedList {    
     private Node head;
-    private int length;
+    private int length;    
     
-    public LinkedList() {
-        
-    }
 
     /**
      * addNode Agrega un nuevo nodo al final de la linkedList

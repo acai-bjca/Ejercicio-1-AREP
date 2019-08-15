@@ -5,7 +5,6 @@
  */
 package edu.escuelaing.arep;
 import java.io.*;
-import java.util.Scanner;
 /**
  *
  * @author Amalia
