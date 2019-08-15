@@ -14,7 +14,7 @@ ___
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/31b363d5a6fe4c9b8eb2d1cd22bc9c37)](https://www.codacy.com/app/acai-bjca/Ejercicio-1-AREP?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acai-bjca/Ejercicio-1-AREP&amp;utm_campaign=Badge_Grade)
 
 ___
-### Instalación :computer:
+### Uso del proyecto como librería :computer:
 Si desea usar éste repositorio como librería en su proyecto, realice los siguientes pasos:
 
 • Descargue o clone él repositorio Ejercicio-1-AREP: https://github.com/acai-bjca/Ejercicio-1-AREP.git
@@ -35,7 +35,7 @@ Para ejecutar las pruebas puede usar el comando:
 
 Adicionalmente, en la clase 'Ejercicio' (en el método principal), puede modificar el nombre del archivo y ejecutar el programa.
 ___
-### Desglose en pruebas
+### Desglose en pruebas :bookmark_tabs:
 En la carpeta src test hay dos archivos de pruebas (src\test\java\edu\escuelaing\arep\).  
 • LinkedListTest tiene pruebas que verifican las operaciones de la clase LinkedList. Como lo son agregar y eliminar un nodo correctamente, ando el dato.
 • AppTest  tiene pruebas que verifican el correcto funcionamiento de las operaciones del ejercicio como tal, es decir la lectura de archivos con el cálculo de la media y la desviación estándar de los datos leídos. Los archivos que contienen los datos están en la carpeta resources.
@@ -70,7 +70,7 @@ ___
 * [Maven] (https://maven.apache.org/) - Gestión de dependencias
 
 ___
-###Autor :black_nib:
+### Autor :black_nib:
 
 ** Amalia Inés Alfonso Campuzano ** 
 
