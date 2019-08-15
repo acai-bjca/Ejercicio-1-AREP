@@ -66,13 +66,13 @@ Si lo desea, en la clase 'Ejercicio' (método principal), puede modificar el nom
 ___
 ### Construido con
 
-* Java  
-* [Maven] (https://maven.apache.org/) - Gestión de dependencias
+• Java  
+• [Maven] (https://maven.apache.org/) - Gestión de dependencias
 
 ___
 ### Autor
 
-** Amalia Inés Alfonso Campuzano ** 
+**Amalia Inés Alfonso Campuzano** 
 
 Estudiante de la Escuela Colombiana de Ingeniería Julio Garavito
 
