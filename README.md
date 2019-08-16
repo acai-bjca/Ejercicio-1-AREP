@@ -12,6 +12,10 @@ ___
 ### Insignias
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/31b363d5a6fe4c9b8eb2d1cd22bc9c37)](https://www.codacy.com/app/acai-bjca/Ejercicio-1-AREP?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acai-bjca/Ejercicio-1-AREP&amp;utm_campaign=Badge_Grade)
+___
+### Documentación
+
+Para leer la documentación diríjase a: <https://acai-bjca.github.io/Ejercicio-1-AREP/src/main/resources/documentacion/site/apidocs/index.html>
 
 ___
 ### Uso del proyecto como librería
