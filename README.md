@@ -23,11 +23,13 @@ Si desea usar éste repositorio como librería en su proyecto, realice los sigui
 
 • Descargue o clone él repositorio Ejercicio-1-AREP: <https://github.com/acai-bjca/Ejercicio-1-AREP.git>
 • Agregue la siguiente dependencia al pom de su proyecto:
- <dependency>
-    <groupId>edu.eci</groupId>
-	<artifactId>Ejercicio-1-ARE</artifactId>
-	<version>1.0-SNAPSHOT</version>
+``` xml
+<dependency>
+   <groupId>edu.escuelaing.arep</groupId>
+   <artifactId>Ejercicio1-AREP</artifactId>
+   <version>1.0-SNAPSHOT</version>
 </dependency>
+```
 • Importe el proyecto en la clase que lo requiera:
 import edu.escuelaing.arep.*;
 
